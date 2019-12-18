@@ -1,4 +1,4 @@
-Follow These Steps
+﻿Follow These Steps
 Boil water and add salt
 After you rinse your rice, pour fresh water (for every cup of rice, use 1¾ cups of water) into a large saucepan with a tight-fitting lid. Bring to a boil. Mix 1 teaspoon salt into the water.
 Pour in rice
@@ -11,5 +11,26 @@ Fluff rice with a fork
 Just before serving, gently fluff the rice with a fork to separate the grains. And after you've cooked up your perfect rice, might we suggest some chili to go with it?
 
 
+<<<<<<< HEAD
 Emmanuel
 has changed
+=======
+
+edited by ARJUN
+
+Some changes
+
+
+ved-changes 1
+
+
+
+edited by ARJUN
+
+Some changes
+
+>>>>>>> 97512e48dc9a5ec561107fef525e11d1954120e0
+
+
+
+second changes
